@@ -8,6 +8,8 @@ environment:
 dependencies:
   path: any
   mustache:
-    path: /home/greg/dart/mustache
+    git:
+      url: git://github.com/xxgreg/mustache.git
+      ref: '0.2'
 dev_dependencies:
   unittest: any
