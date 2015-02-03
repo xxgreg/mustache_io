@@ -18,5 +18,5 @@ main.dart
     
 foo.mustache
 
-   <{{bar}}>
+    <{{bar}}>
 
