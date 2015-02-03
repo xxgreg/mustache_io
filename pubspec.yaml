@@ -1,0 +1,13 @@
+name: mustache_io
+version: 0.0.1
+description: Mustache template library for use with dart:io.
+author: Greg Lowe greg@vis.net.nz
+homepage: https://github.com/xxgreg/mustache_io
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  path: any
+  mustache:
+    path: /home/greg/dart/mustache
+dev_dependencies:
+  unittest: any
